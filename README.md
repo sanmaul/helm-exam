@@ -1,1 +1,1 @@
-A Helm chart for Kubernetes
+A Helm chart example for Kubernetes 
