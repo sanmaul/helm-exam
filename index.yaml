@@ -3,7 +3,7 @@ entries:
   exam01:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-27T10:30:25.749099437+09:00"
+    created: "2023-06-27T10:38:37.190432322+09:00"
     description: A Helm chart for Kubernetes (exam01)
     digest: c479ea68f9ae24cf9173c391b58e5454006644699ac61137e109fd7016e875ca
     name: exam01
@@ -11,4 +11,15 @@ entries:
     urls:
     - exam01-1.0.1.tgz
     version: 1.0.1
-generated: "2023-06-27T10:30:25.748791584+09:00"
+  exam02:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-27T10:38:37.190814066+09:00"
+    description: A Helm chart for Kubernetes
+    digest: c933874236b706417237e9893ed311a4b06353259880e18dcb3bd70d18dba560
+    name: exam02
+    type: application
+    urls:
+    - exam02-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-27T10:38:37.190109204+09:00"
