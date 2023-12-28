@@ -1,25 +1,3 @@
 apiVersion: v1
-entries:
-  exam01:
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2023-06-27T11:31:57.155850479+09:00"
-    description: A Helm chart for Kubernetes (exam01)
-    digest: 7d6ed149e5b0c7366fa69357ddd61edb208702568d93f19095c6027ac406cb9c
-    name: exam01
-    type: application
-    urls:
-    - exam01-1.0.2.tgz
-    version: 1.0.2
-  exam02:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-06-27T11:31:57.156309548+09:00"
-    description: A Helm chart for Kubernetes
-    digest: c933874236b706417237e9893ed311a4b06353259880e18dcb3bd70d18dba560
-    name: exam02
-    type: application
-    urls:
-    - exam02-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-06-27T11:31:57.155477086+09:00"
+entries: {}
+generated: "2023-12-28T09:47:17.927327264+09:00"
